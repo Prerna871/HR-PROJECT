@@ -1,0 +1,46 @@
+HR Data Analytics Project – Power BI
+
+Objective:
+This project analyzes HR data to identify workforce trends, employee attrition patterns, and factors influencing retention. The goal is to provide insights that help HR managers make data-driven decisions for improving employee engagement and reducing attrition.
+
+Key Features:
+
+Employee demographics analysis (age, gender, education, marital status).
+
+Department-wise workforce distribution.
+
+Salary and job role comparison.
+
+Attrition analysis by gender, department, overtime, and job satisfaction.
+
+KPIs such as Attrition Rate, Average Salary, Average Tenure, Job Satisfaction Score.
+
+Interactive slicers for filtering by department, gender, age group, etc.
+
+Tools Used:
+
+Power BI (Data Visualization & Dashboard)
+
+Power Query (Data Cleaning & Transformation)
+
+DAX (Measures & Calculations)
+
+Deliverables:
+
+HR_DATA_ANALYTICS_PROJECT.pbix → Power BI file.
+
+hr_dataset.csv → Sample dataset (optional).
+
+README.md → Project overview & documentation.
+
+Dashboard screenshots (PNG/JPG) for quick preview.
+
+Sample Insights:
+
+The Sales department shows the highest attrition rate (25%).
+
+Employees working overtime are more likely to leave.
+
+Job satisfaction score below 3/5 strongly correlates with attrition.
+
+Employees with <2 years at company have higher turnover.
